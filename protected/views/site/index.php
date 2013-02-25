@@ -289,61 +289,13 @@
           </li>
         </ul>
       </div>
-      <div id="icount">住哪网有 <span class="loadarrows">　　　</span> 家酒店　　<span class="loadarrows">　　　</span> 条入住客人点评　　<span class="loadarrows">　　　</span> 张客人实拍照片</div>
 <script src="http://tp1.znimg.com/v5/inc/helper.js"></script>
+<script src="js/calenda.js"></script>
 
-<div class="friend_box">
-      <div class="friend_top">
-        <div class="friend_tab">
-          <ul>
-          
-            <li class="current">友情链接</li>
-            <li>热门城市</li>
-          
-          </ul>
-        </div>
-        <dfn> </dfn>
-      </div>
-      <div class="clear"></div>
-      
-          <div class="friend_link1">
-            <ul>
-            <li><a href="http://go.qq.com/#attach=qqlvyou_145_13_0"  target="_blank">QQ网购-旅游</a></li><li><a href="http://www.elong.com/"  target="_blank">艺龙网</a></li><li><a href="http://trip.elong.com/"  target="_blank">艺龙旅游指南</a></li><li><a href="http://www.sunnychina.com/"  target="_blank">阳光旅行网</a></li><li><a href="http://www.daodao.com"  target="_blank">到到网</a></li><li><a href="http://www.17u.net/"  target="_blank">旅交汇</a></li><li><a href="http://www.uzai.com/"  target="_blank">悠哉旅游网</a></li><li><a href="http://www.tuniu.com/"  target="_blank">途牛旅游网</a></li><li><a href="http://www.lavago.com/"  target="_blank">拉拉勾旅游网</a></li><li><a href="http://www.lvmama.com"  target="_blank">驴妈妈旅游网</a></li><li><a href="http://www.xiaozhu.com"  target="_blank">小猪短租</a></li><li><a href="http://www.mapbar.com"  target="_blank">图吧</a></li><li><a href="http://www.edushi.com/"  target="_blank">e都市</a></li><li><a href="http://www.auyou.cn/"  target="_blank">遨游搜旅游网</a></li><li><a href="http://www.qbaobei.com/"  target="_blank">亲亲宝贝网</a></li><li><a href="http://www.chachaba.com/"  target="_blank">深圳地图</a></li><li><a href="http://www.chinasspp.com"  target="_blank">服装品牌</a></li><li><a href="http://www.dreams-travel.com/"  target="_blank">梦之旅旅游网</a></li><li><a href="http://www.liebiao.com/"  target="_blank">分类信息网</a></li><li><a href="http://www.fenzhi.com/"  target="_blank">分智网</a></li><li><a href="http://www.lvye.cn/"  target="_blank">绿野户外网</a></li><li><a href="http://www.huoche.net"  target="_blank">火车网</a></li><li><a href="http://www.tuan800.com/"  target="_blank">团购导航</a></li><li><a href="http://hotel.qunar.com/"  target="_blank">去哪儿酒店</a></li><li><a href="http://beijing.baixing.com/"  target="_blank">北京百姓网</a></li><li><a href="http://www.azlijiang.com/"  target="_blank">丽江自助游论坛</a></li><li><a href="http://www.9tour.cn"  target="_blank">九游网</a></li><li><a href="http://www.iqiyi.com/lvyou/"  target="_blank">爱奇艺旅游</a></li><li><a href="http://www.jobui.com"  target="_blank">找工作</a></li><li><a href="http://www.998.com/"  target="_blank">快捷酒店</a></li><li><a href="http://www.zhuna.cn/liansuo-6/Motel168/"  target="_blank">莫泰168</a></li><li><a href="http://www.htinns.com/"  target="_blank">北京汉庭酒店</a></li><li><a href="http://www.laidingba.com/"  target="_blank">来订吧酒店网</a></li><li><a href="http://www.egou.com/"  target="_blank">返利网</a></li><li><a href="http://www.mafengwo.cn/"  target="_blank">蚂蜂窝旅游攻略</a></li><li><a href="http://www.youbian.com/"  target="_blank">邮编查询网</a></li><li><a href="http://www.keyunzhan.com/"  target="_blank">客运站</a></li><li><a href="http://www.8684.cn/"  target="_blank">公交查询</a></li><li><a href="http://www.jieju.cn/"  target="_blank">卫浴</a></li><li><a href="http://www.51766.com/"  target="_blank">51766旅游网</a></li><li><a href="http://www.51auto.com/"  target="_blank">51二手车</a></li><li><a href="http://www.gaotie.cn"  target="_blank">高铁</a></li><li><a href="http://www.motel168.com"  target="_blank">莫泰168连锁酒店</a></li><li><a href="http://www.homeinns.com"  target="_blank">如家快捷连锁酒店</a></li><li><a href="http://dibiao.zhuna.cn"  target="_blank">住哪网</a></li><li><a href="http://www.tieyou.com"  target="_blank">火车票</a></li>
-            </ul>
-          </div>
-          <div class="friend_link1 hidden">
-            <ul>
-                <li><a href="http://www.zhuna.cn/hotellist/e0101/" target="_blank" title="北京酒店预订">北京酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e0201/" target="_blank" title="上海酒店预订">上海酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1201/" target="_blank" title="杭州酒店预订">杭州酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e2001/" target="_blank" title="广州酒店预订">广州酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e2301/" target="_blank" title="成都酒店预订">成都酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e2701/" target="_blank" title="西安酒店预订">西安酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e2003/" target="_blank" title="深圳酒店预订">深圳酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1401/" target="_blank" title="厦门酒店预订">厦门酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1101/" target="_blank" title="南京酒店预订">南京酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1801/" target="_blank" title="武汉酒店预订">武汉酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1601/" target="_blank" title="青岛酒店预订">青岛酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e0401/" target="_blank" title="重庆酒店预订">重庆酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e2503/" target="_blank" title="丽江（含束河）酒店预订">丽江酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e2201/" target="_blank" title="三亚酒店预订">三亚酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e0301/" target="_blank" title="天津酒店预订">天津酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1102/" target="_blank" title="苏州酒店预订">苏州酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1901/" target="_blank" title="长沙酒店预订">长沙酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e0801/" target="_blank" title="大连酒店预订">大连酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e0802/" target="_blank" title="沈阳酒店预订">沈阳酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1701/" target="_blank" title="郑州酒店预订">郑州酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1602/" target="_blank" title="济南酒店预订">济南酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1301/" target="_blank" title="合肥酒店预订">合肥酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1105/" target="_blank" title="无锡酒店预订">无锡酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e1202/" target="_blank" title="宁波酒店预订">宁波酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e2501/" target="_blank" title="昆明酒店预订">昆明酒店</a></li><li><a href="http://www.zhuna.cn/hotellist/e2007/" target="_blank" title="东莞酒店预订">东莞酒店</a></li><li><a href="http://www.zhuna.cn/liansuo-3/7DaysInn/" target="_blank" title="7天连锁酒店">七天连锁</a></li><li><a href="http://www.zhuna.cn/liansuo-1/HomeInn/" target="_blank" title="如家快捷酒店">如家酒店</a></li><li><a href="http://www.zhuna.cn/liansuo-5/HanTingInns/" target="_blank" title="汉庭快捷酒店">汉庭快捷</a></li><li><a href="http://www.zhuna.cn/liansuo-2/JinJiangInn/" target="_blank" title="锦江之星连锁酒店">锦江之星</a></li><li><a href="http://www.zhuna.cn/liansuo-7/GreenTreeInns/" target="_blank" title="格林豪泰连锁酒店">格林豪泰</a></li><li><a href="http://www.zhuna.cn/liansuo-58/PodInn/" target="_blank" title="布丁酒店">布丁酒店</a></li><li><a href="http://www.zhuna.cn/liansuo-119/ShangriLa/" target="_blank" title="香格里拉酒店">香格里拉</a></li><li><a href="http://www.zhuna.cn/liansuo-51/OrangeHotel/" target="_blank" title="桔子酒店">桔子酒店</a></li><li><a href="http://www.zhuna.cn/liansuo-129/Intercontinental/" target="_blank" title="洲际酒店">洲际酒店</a></li><li><a href="http://www.zhuna.cn/liansuo-4/Super8/" target="_blank" title="速8酒店">速8酒店</a></li><li><a href="http://www.zhuna.cn/liansuo-122/Marriott/" target="_blank" title="万豪酒店">万豪酒店</a></li><li><a href="http://www.zhuna.cn/liansuo-89/ViennaHotels/" target="_blank" title="维也纳酒店">维也纳</a></li><li><a href="http://www.zhuna.cn/liansuo-120/Sheraton/" target="_blank" title="喜来登酒店">喜来登</a></li>
-            </ul>
-          </div>
-      
-</div>
+
 <script src="js/footer.js"></script>
-
-<script type="text/javascript"  charset="utf-8" src="http://tp1.znimg.com/v5/javascript/ut2.js"></script>
-
-<script type="text/javascript"  charset="utf-8" src="http://tp1.znimg.com/v5/javascript/weibo.js?20130225"></script>
     </div>
   </div>
 </div>
 </div>
 </body>
-
-<script type="text/javascript">
-var S = {
-	tm1 	 : "",
-	tm2 	 : "",
-	city 	 : "",
-	cityid 	 : "0101",
-	canton	 : "",//行政区域
-	cantonname: "",
-	keyclass : "",
-	keyid	 : "",
-	types	 : 2,
-	areaid   :53
-};
-J.j('/main.js?v20130225','/calendar/calendar.js?v20130225','/rooms.js?v20130225','/zn_index.js?v20130225','/float_AD.js?v20130225');
-;(function(){var a=$(".inter_top"),l=a.find("li"),d=a.parents().find(".web_news"),k=a.find("a.inter_more");l.each(function(i){var t=$(this);t.bind("mouseover",function(){!i&&t.attr("url",k.attr("href"));k.attr("href",t.attr("url"));var c=t.addClass("current");c.siblings().removeClass("current");var b=d.eq(i).removeClass("hidden");b.siblings(".web_news").addClass("hidden");});});})();
-</script>
-<script type="text/javascript" src="js/loading.js"></script>
-</html>
