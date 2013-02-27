@@ -10,18 +10,9 @@
 <link href="css/layout.css" rel="stylesheet" type="text/css" />
 <meta name="baidu-site-verification" content="3thbjk0bOHk0exwH" />
 <meta property="qc:admins" content="1740172567620561636" />
-<script  type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+<script  type="text/javascript" src="js/jquery-1.4.4.min.js"></script>
 </head>
 <?php echo $content; ?>
-<div class="friend_box">
-      <div class="friend_top">
-        <div class="friend_tab">
-        </div>
-        <dfn> </dfn>
-      </div>
-      <div class="clear"></div>
-      
-</div>
 <script type="text/javascript">
 var S = {
 	tm1 	 : "",
@@ -35,7 +26,7 @@ var S = {
 	types	 : 2,
 	areaid   :53
 };
-J.j('/main.js?v20130225','/calendar/calendar.js?v20130225','/rooms.js?v20130225','/zn_index.js?v20130225','/float_AD.js?v20130225');
+J.j('js/main.js','js/calenda.js','js/rooms.js','js/zn_index.js','/float_AD.js');
 ;(function(){var a=$(".inter_top"),l=a.find("li"),d=a.parents().find(".web_news"),k=a.find("a.inter_more");l.each(function(i){var t=$(this);t.bind("mouseover",function(){!i&&t.attr("url",k.attr("href"));k.attr("href",t.attr("url"));var c=t.addClass("current");c.siblings().removeClass("current");var b=d.eq(i).removeClass("hidden");b.siblings(".web_news").addClass("hidden");});});})();
 </script>
 <script type="text/javascript" src="js/loading.js"></script>

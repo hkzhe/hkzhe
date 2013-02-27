@@ -271,7 +271,7 @@ _margin:3px 10px 4px 0; white-space:nowrap; min-width:26px; _width:auto; float:l
 #container { width:950px; margin:0 auto; background:#fff; }
 /*index*/
 #imain { float:left; width:290px; }
-#srh { height:356px; padding:38px 6px 6px 6px; background:url(/V5/images/srh_bg1.gif) 0 0 no-repeat; margin-bottom:10px; }
+#srh { height:356px; padding:38px 6px 6px 6px; background:url(../images/srh_bg1.gif) 0 0 no-repeat; margin-bottom:10px; }
 #srh_tab { height:36px; line-height:36px; display:none; }
 #srh_tab ul li { float:left; height:36px; font-size:14px; font-weight:bold; text-align:center; color:#444; }
 #srh_tab ul li a { color:#555; }
@@ -293,7 +293,7 @@ overflow:hidden; }
 .srh_input2 { border:1px solid #bbb; width:59px; >width:58px;
 height:17px; padding:3px 0 0 3px; }
 .srh_input3 { border:1px solid #bbb; width:141px; height:17px; padding:3px 0 0 3px; background:url(/V5/images/icon6.gif) right 0 no-repeat; }
-.btn_srh { width:122px; height:34px; background:url(/V5/images/btn_srh.gif) 0 0 no-repeat; border:none; cursor:pointer; }
+.btn_srh { width:122px; height:34px; background:url(../images/btn_srh.gif) 0 0 no-repeat; border:none; cursor:pointer; }
 #srh_con ul li.p_left { height:34px; padding:6px 0 0 72px; }
 #srh_bot { height:39px; }
 .new_info { height:383px; padding:0 15px; overflow:hidden; position: relative; }
