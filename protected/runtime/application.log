@@ -1,0 +1,16 @@
+2013/03/27 09:09:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in E:\wamp\www\hkzhe\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#1 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hkzhe/?r=gii
+---
+2013/03/27 09:09:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in E:\wamp\www\hkzhe\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#1 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hkzhe/index.php?r=gii
+---

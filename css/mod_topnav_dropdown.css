@@ -1,0 +1,274 @@
+#HEAD .top_nav_rd li {
+  margin-right: -2px;
+  _margin-right: 0px;
+}
+
+#HEAD .top_nav_rd .top-sns-connect {
+  padding-left: 0;
+  border-left: none;
+  font-size: 12px;
+}
+
+#HEAD .top_nav_rd .btn-signin-sina,
+#HEAD .top_nav_rd .btn-signin-QQ {
+  vertical-align: middle;
+}
+
+#HEAD .top_nav_rd li.dropDown {
+  position:relative;
+  z-index: 10;
+  padding: 0;
+  width: 83px;
+}
+
+#HEAD .top_nav_rd .mseOvr {
+  text-decoration: none !important;
+}
+
+#HEAD .top_nav_rd li.dropDown:hover,
+#HEAD .top_nav_rd li.dropDown.mseOvr {
+  z-index:11;
+}
+
+#HEAD .top_nav_rd .subNav li {
+  float: none;
+  background: none;
+  border-left: none;
+  padding: 0;
+  margin: 0;
+  height: auto;
+}
+
+#HEAD .top_nav_rd #listings img {
+  position: absolute;
+  top: auto;
+  vertical-align: text-top;
+}
+
+.top_nav_rd .register, .top_nav_rd .login {
+  font-weight: bold;
+}
+
+.top_nav_rd .dropDown .dropLabel {
+  padding: 9px 9px 8px;
+  position: absolute;
+  margin-left: -1px;
+  display: inline-block;
+  margin-top: -9px;
+  width: 65px;
+}
+
+.top_nav_rd .dropDown:hover .dropLabel,
+.top_nav_rd .dropDown.mseOvr .dropLabel {
+  border: 1px solid #629d2a;
+  border-width: 1px 1px 0;
+  color: #629d2a !important;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: none;
+  background-color: white;
+  padding: 8px;
+  _padding-left: 10px;
+  z-index: 10;
+  height: 14px;
+}
+
+.top_nav_rd .dropDown .subNav {
+  top: 21px;
+  left: -1px;
+  _top: 22px;
+  _width:84px;
+  border-radius: 0 1px 3px 3px;
+  box-shadow: 3px 3px 3px rgba(81, 81, 81, 0.6);
+  background-color: white;
+  border-top-width: 1px;
+}
+
+.top_nav_rd .dropDown:hover .subNav,
+.top_nav_rd .dropDown.mseOvr .subNav {
+  display: block !important;
+}
+
+.top_nav_rd .subItem,
+.top_nav_rd .subItemNoLink {
+  width: 100%;
+}
+
+.top_nav_rd .subLink .bl,
+.top_nav_rd .subNoLink .bl {
+  color:#333;
+}
+
+.top_nav_rd .dropDown .sprite-arrow-down-gray {
+  background-position: right -111px;
+  width: 7px;
+  height: 5px;
+  margin-top: 5px;
+  _margin-top: 4px;
+  position: absolute;
+  right:9px;
+  _right:7px;
+}
+
+.top_nav_rd .dropDown:hover .sprite-arrow-down-gray,
+.top_nav_rd .dropDown.mseOvr .sprite-arrow-down-gray {
+  background-position: right -221px;
+  right:8px;
+}
+
+/**
+ * Management Center styles
+ */
+.t4b #PAGE #HEAD .top_nav_rd {
+  overflow: visible;
+  text-align: left;
+  position: absolute;
+  float:none;
+  right:0;
+}
+
+.t4b #PAGE #HEAD .top_nav_rd .subNav a {
+  height: auto;
+  display: block;
+  float: none;
+  text-shadow: none;
+}
+
+.t4b #PAGE #HEAD .top_nav_rd .subNav a:hover,
+.t4b #PAGE #HEAD .top_nav_rd .subNav a.mseOvr {
+  background-color: #629d2a !important;
+  color: #fff !important;
+}
+
+.t4b #PAGE #HEAD .top_nav_rd .dropDown .subNav {
+  top: 32px;
+}
+
+.t4b #PAGE #HEAD .subNav .subItem .subLink {
+  color: #069 !important;
+}
+
+.t4b #PAGE #HEAD .top_nav_rd .dropDown .dropLabel {
+  padding: 9px 9px 10px;
+  position: relative;
+  margin-top: 0px;
+  width: 62px;
+  color: #fff;
+  line-height: 100%;
+  height: 14px;
+}
+
+.t4b #PAGE #HEAD .top_nav_rd .dropDown:hover .dropLabel,
+.t4b #PAGE #HEAD .top_nav_rd .dropDown.mseOvr .dropLabel {
+  border: 1px solid #629d2a;
+  border-width: 1px 1px 0;
+  padding: 8px 8px 10px;
+  font-weight: bold;
+  background-color: white !important;
+  background-image: none !important;
+}
+
+.t4b .top_nav_rd .sprite-arrow-down-gray {
+  background-position: left -131px;
+  *margin-top: 8px;
+  _margin-top: 5px;
+}
+
+.t4b .top_nav_rd .dropDown.mseOvr .sprite-arrow-down-gray {
+  background-position: right -221px;
+}
+
+/**
+ * lite layout styles
+ */
+.layout-lite #HEAD {
+  overflow:visible;
+}
+
+.layout-lite #HEAD .identity {
+  width:auto !important;
+}
+
+.layout-lite .top_nav_rd .dropDown:hover .dropLabel,
+.layout-lite .top_nav_rd .dropDown.mseOvr .dropLabel {
+  padding: 5px 8px 8px;
+  margin-top:-6px;
+}
+
+.layout-lite #HEAD .top_nav_rd li {
+  _margin-right: -2px;
+}
+
+/**
+ * tripgraphics specific styles
+ * Note: some of the styling will look off in linux, but they should look correct on Windows machines
+ */
+
+#navBar .top_nav_rd {
+  white-space: nowrap;
+  margin-top: 4px;
+  font-family: arial,helvetica,clean,sans-serif;
+}
+
+#navBar .top_nav_rd ul {
+  padding:0;
+  font-size: 12px;
+}
+
+#navBar .top_nav_rd ul.subNav {
+  display:none;
+}
+
+#navBar .top_nav_rd .dropDown:hover .subNav,
+#navBar .top_nav_rd .dropDown.mseOvr .subNav {
+  top:22px;
+}
+
+#navBar .top_nav_rd .subItem .subLink,
+#navBar .top_nav_rd .subItem {
+  display:block;
+  height: auto;
+}
+
+#navBar .top_nav_rd .subItem .subLink:hover,
+#navBar .top_nav_rd .subItem .subLink.mseOvr {
+  color: #fff;
+}
+
+#navBar .top_nav_rd li {
+  float: left;
+}
+
+#navBar .top_nav_rd li.icon {
+  margin-right: -12px;
+}
+
+#top .top_nav_rd li.icon img {
+  margin:0;
+}
+
+#navBar .top_nav_rd a {
+  font-size:100%;
+}
+
+#navBar .top_nav_rd .dropDown .dropLabel {
+  display: inline-block;
+  height: 15px;
+  margin-top:-6px;
+  padding-top: 6px;
+  _padding-top: 8px;
+  _padding-bottom: 4px;
+}
+
+#navBar .top_nav_rd .dropDown:hover .dropLabel,
+#navBar .top_nav_rd .dropDown.mseOvr .dropLabel {
+  padding-top: 5px;
+  _padding-top: 7px;
+  _padding-bottom: 4px;
+}
+
+#navBar .top_nav_rd .dropDown .sprite-arrow-down-gray {
+  vertical-align: text-top;
+  margin-top: 6px;
+  _margin-top: 3px;
+}
