@@ -14,3 +14,99 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/hkzhe/index.php?r=gii
 ---
+2013/03/31 17:30:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "GetExploreActivities?start=0".' in E:\wamp\www\hkzhe\framework\web\CController.php:483
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CController.php(270): CController->missingAction('GetExploreActiv...')
+#1 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(282): CController->run('GetExploreActiv...')
+#2 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('ajax/GetExplore...')
+#3 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/hkzhe/index.php?r=ajax/GetExploreActivities?start=0&howMany=20&_=1364750801672
+---
+2013/03/31 17:31:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "GetExploreActivities?start=0".' in E:\wamp\www\hkzhe\framework\web\CController.php:483
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CController.php(270): CController->missingAction('GetExploreActiv...')
+#1 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(282): CController->run('GetExploreActiv...')
+#2 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('ajax/GetExplore...')
+#3 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/hkzhe/index.php?r=ajax/GetExploreActivities?start=0&howMany=20&_=1364750801672
+---
+2013/03/31 17:34:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "GetExploreActivities?start=0".' in E:\wamp\www\hkzhe\framework\web\CController.php:483
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CController.php(270): CController->missingAction('GetExploreActiv...')
+#1 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(282): CController->run('GetExploreActiv...')
+#2 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('ajax/GetExplore...')
+#3 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/hkzhe/index.php?r=ajax/GetExploreActivities?start=0&howMany=20&_=1364750801672
+---
+2013/03/31 17:35:20 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in E:\wamp\www\hkzhe\framework\web\CController.php:336
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 E:\wamp\www\hkzhe\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 E:\wamp\www\hkzhe\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(282): CController->run('GetExploreActiv...')
+#4 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('ajax/GetExplore...')
+#5 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/hkzhe/index.php?r=ajax/GetExploreActivities
+---
+2013/03/31 17:35:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "GetExploreActivities?start=0".' in E:\wamp\www\hkzhe\framework\web\CController.php:483
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CController.php(270): CController->missingAction('GetExploreActiv...')
+#1 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(282): CController->run('GetExploreActiv...')
+#2 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('ajax/GetExplore...')
+#3 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/hkzhe/index.php?r=ajax/GetExploreActivities?start=0&howMany=20
+---
+2013/03/31 17:35:45 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in E:\wamp\www\hkzhe\framework\web\CController.php:336
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 E:\wamp\www\hkzhe\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 E:\wamp\www\hkzhe\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(282): CController->run('GetExploreActiv...')
+#4 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('ajax/GetExplore...')
+#5 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/hkzhe/index.php?r=ajax/GetExploreActivities
+---
+2013/03/31 17:35:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "GetExploreActivities?start=0".' in E:\wamp\www\hkzhe\framework\web\CController.php:483
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CController.php(270): CController->missingAction('GetExploreActiv...')
+#1 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(282): CController->run('GetExploreActiv...')
+#2 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('ajax/GetExplore...')
+#3 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/hkzhe/index.php?r=ajax/GetExploreActivities?start=0
+---
+2013/03/31 17:36:02 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in E:\wamp\www\hkzhe\framework\web\CController.php:336
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 E:\wamp\www\hkzhe\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 E:\wamp\www\hkzhe\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(282): CController->run('GetExploreActiv...')
+#4 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('ajax/GetExplore...')
+#5 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#7 {main}
+REQUEST_URI=/hkzhe/index.php?r=ajax/GetExploreActivities&start=0
+---
+2013/03/31 17:36:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "GetExploreActivities?start=0".' in E:\wamp\www\hkzhe\framework\web\CController.php:483
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CController.php(270): CController->missingAction('GetExploreActiv...')
+#1 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(282): CController->run('GetExploreActiv...')
+#2 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('ajax/GetExplore...')
+#3 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/hkzhe/index.php?r=ajax/GetExploreActivities?start=0&howMany=20&_=1364750801672
+---

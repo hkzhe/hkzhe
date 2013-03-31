@@ -1,0 +1,32 @@
+.ss-controllers{
+    display: none;
+}
+
+.ss-button {
+    background-image: url('images/classic-map.png');
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 31px;
+    position: absolute;
+    z-index: 4;
+    top: 50%;
+    margin-top: -15px;
+}
+
+.ss-button:hover{
+    cursor: pointer;
+}
+
+.next{
+    
+    background-position: -298px 0px;
+    right: 30px;
+}
+
+.prev{
+    background-position: 0px 0px;
+    left: 30px;
+}
+
+
+
