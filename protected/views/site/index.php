@@ -122,35 +122,35 @@
     <div id="slideShowCont">
         <ul id="slideshow">
                 <li class="bpn-box">
-                    <img src="http://i2.wetrip.me/aimg/at20121003094458389_6870_1.jpg" alt="Alcatraz Picture" title="Alcatraz"/>
+                    <img src="http://www.hkzhe.com/hotel/images/167_2011041422393718s0f.jpg" alt="香港海味" title="香港海味"/>
                     <a class="caption" href="/activities/alcatraz-san-francisco">
                         <p class="title">
-                            Alcatraz
+                            		迪士尼乐园酒店
                         </p>
                         <p class="location">
-                            San Francisco, CA, United States
+                             	迪士尼主题公园内
                         </p>
                     </a>
                 </li>
                 <li class="bpn-box">
-                    <img src="http://i2.wetrip.me/aimg/at20121003094803456_9839_1.jpg" alt="Phang Nga Bay Picture" title="Phang Nga Bay"/>
+                    <img src="http://www.hkzhe.com/hotel/images/047df7a5c0cc3747.jpg" alt="Phang Nga Bay Picture" title="Phang Nga Bay"/>
                     <a class="caption" href="/activities/phang-nga-bay-phuket">
                         <p class="title">
-                            Phang Nga Bay
+                            	如心海景酒店
                         </p>
                         <p class="location">
-                            Phuket, Thailand
+                            	香港铜锣湾英皇道18号（近地铁天后站）
                         </p>
                     </a>
                 </li>
                 <li class="bpn-box">
-                    <img src="http://i2.wetrip.me/aimg/at20121003094743410_11421_1.jpg" alt="Milford Sound Picture" title="Milford Sound"/>
+                    <img src="http://www.hkzhe.com/hotel/images/C8F32446-3845-4FA2-9E89-EA6BC82B0552.jpg" alt="Milford Sound Picture" title="Milford Sound"/>
                     <a class="caption" href="/activities/milford-sound-te-anau">
                         <p class="title">
-                            Milford Sound
+                           	九龙皇悦酒店
                         </p>
                         <p class="location">
-                            Te Anau, New Zealand
+                            		九龙尖沙咀金巴利道62号
                         </p>
                     </a>
                 </li>
@@ -159,16 +159,16 @@
 
     <div id="imgOverlayCont">
         <div id="search-box">
-            <h1>EXPLORE NEW DESTINATIONS</h1>
-            <h2>Enjoy more than 50,000 activities worldwide</h2>
-            <input type="text" name="location-search" id="location-search" placeholder="Where do you want to explore?" />
+            <h1>想找更多的酒店</h1>
+            <h2>查看我们超过1000间酒店的点评</h2>
+            <input type="text" name="location-search" id="location-search" placeholder="输入酒店，地段名" />
         </div>
 
         <div id="blob-bg"></div>
     </div>
 </div>
 
-<div id="boxesCon" data-message="Something is wrong, please reload the page" data-method="hkzhe/ajax/GetExploreActivities">
+<div id="boxesCon" data-message="Something is wrong, please reload the page" data-method="index.php/ajax/GetExploreActivities">
     <ul id="activLis" class="clearfix">
     </ul>
 </div>
@@ -321,13 +321,13 @@
         };
 
         // Load the SDK Asynchronously
-        (function (d) {
+        /*(function (d) {
             var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
             if (d.getElementById(id)) { return; }
             js = d.createElement('script'); js.id = id; js.async = true;
             js.src = "//connect.facebook.net/en_US/all.js";
             ref.parentNode.insertBefore(js, ref);
-        }(document));
+        }(document));*/
 
         function submitFacebookAuth(response) {
 

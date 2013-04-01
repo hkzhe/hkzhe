@@ -459,7 +459,7 @@ td {
 @font-face {
     font-family: 'MyriadProCondensed';
     src: url('../Content/Fonts/myriadpro-cond-webfont.eot');
-    src: url('../Content/Fonts/myriadpro-cond-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/myriadpro-cond-webfont.woff') format('woff'), url('../fonts/myriadpro-cond-webfont.ttf') format('truetype'), url('../Content/Fonts/myriadpro-cond-webfont.svg?#') format('svg');
+    src: url('../Content/Fonts/myriadpro-cond-webfont.eot?#iefix') format('embedded-opentype'), url('../Content/Fonts/myriadpro-cond-webfont.woff') format('woff'), url('../fonts/myriadpro-cond-webfont.ttf') format('truetype'), url('../Content/Fonts/myriadpro-cond-webfont.svg?#') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -1079,13 +1079,13 @@ div.edit {
 }
 /*Arrow moves down*/
 .item-closed .arrow {
-    background-image: url('Images/icon_arrow_closed.png');
+    background-image: url('../images/icon_arrow_closed.png');
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .item-open .arrow {
-    background-image: url('Images/icon_arrow_open.png');
+    background-image: url('../images/icon_arrow_open.png');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1389,14 +1389,14 @@ div#template-instances-wrapper ul#template-instances {
 }
 
 div.field-wrapper {
-    background-image: url('Images/icon_time_22.png');
+    background-image: url('../images/icon_time_22.png');
     background-repeat: no-repeat;
     background-position: left;
     padding-left: 27px;
 }
 
 .wt-datepicker {
-    background-image: url('images/icon_date.png');
+    background-image: url('../images/icon_date.png');
     background-repeat: no-repeat;
     background-position: right;
     padding: 12px 7px;
@@ -1532,7 +1532,7 @@ div.field-wrapper {
 }
 
 .floatingBox .input-submit {
-    background: url('Images/icon_search_white.png');
+    background: url('../images/icon_search_white.png');
 }
 
 .city-title {
@@ -1595,7 +1595,7 @@ div.field-wrapper {
 
     .map-hoverbox .social-indication {
         margin-top: 5px;
-        background-image: url('images/icon_friends.png');
+        background-image: url('../images/icon_friends.png');
         background-position: left;
         padding-left: 30px;
         background-repeat: no-repeat;
@@ -1604,7 +1604,7 @@ div.field-wrapper {
     .map-hoverbox .fsq-tips {
         font-weight: normal;
         margin-top: -10px;
-        background-image: url('images/poweredby_36x36.png');
+        background-image: url('../images/poweredby_36x36.png');
         background-position: left;
         padding-left: 30px;
         background-repeat: no-repeat;
@@ -2217,7 +2217,7 @@ header {
 }
 
 .header-navigation-links .navItem:hover {
-    background-image: url('images/wt-header-menu-active-bg.png');
+    background-image: url('../images/wt-header-menu-active-bg.png');
 }
 
 .header-navigation-links a:visited {

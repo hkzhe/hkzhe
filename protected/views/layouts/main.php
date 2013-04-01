@@ -13,7 +13,7 @@
     <!-- Use the .htaccess and remove these lines to avoid edge case issues.
 	   More info: h5bp.com/b/378 -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>WeTrip - It&#39;s Better To Travel. Together</title>
+    <title>港澳酒店打折网 - 提供港澳最优质的酒店预订和评论服务</title>
     <meta name="description" content="hkzhe是一个提供港澳酒店预订的平台！">
     <meta name="author" content="WeTrip">
     <link rel="shortcut icon" href="/Content/Images/favicon.ico">

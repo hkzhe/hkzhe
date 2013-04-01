@@ -110,3 +110,57 @@ Stack trace:
 #5 {main}
 REQUEST_URI=/hkzhe/index.php?r=ajax/GetExploreActivities?start=0&howMany=20&_=1364750801672
 ---
+2013/04/01 17:15:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/jquery-ui-1.8.18.custom.css".' in E:\wamp\www\hkzhe\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('css/jquery-ui-1...')
+#1 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hkzhe/index.php/css/jquery-ui-1.8.18.custom.css
+HTTP_REFERER=http://localhost/hkzhe/index.php/ajax
+---
+2013/04/01 17:15:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style-new.css".' in E:\wamp\www\hkzhe\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('css/style-new.c...')
+#1 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hkzhe/index.php/css/style-new.css
+HTTP_REFERER=http://localhost/hkzhe/index.php/ajax
+---
+2013/04/01 17:15:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/slideshow.css".' in E:\wamp\www\hkzhe\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('css/slideshow.c...')
+#1 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hkzhe/index.php/css/slideshow.css
+HTTP_REFERER=http://localhost/hkzhe/index.php/ajax
+---
+2013/04/01 17:15:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/jquery.jscrollpane.css".' in E:\wamp\www\hkzhe\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('css/jquery.jscr...')
+#1 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hkzhe/index.php/css/jquery.jscrollpane.css
+HTTP_REFERER=http://localhost/hkzhe/index.php/ajax
+---
+2013/04/01 17:15:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.0.6.min.js".' in E:\wamp\www\hkzhe\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hkzhe/index.php/js/modernizr-2.0.6.min.js
+HTTP_REFERER=http://localhost/hkzhe/index.php/ajax
+---
+2013/04/01 17:15:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style-webapp.css".' in E:\wamp\www\hkzhe\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\wamp\www\hkzhe\framework\web\CWebApplication.php(141): CWebApplication->runController('css/style-webap...')
+#1 E:\wamp\www\hkzhe\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 E:\wamp\www\hkzhe\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hkzhe/index.php/css/style-webapp.css
+HTTP_REFERER=http://localhost/hkzhe/index.php/ajax
+---
